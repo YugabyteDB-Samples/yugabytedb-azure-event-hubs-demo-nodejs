@@ -1,51 +1,15 @@
 INSERT INTO
     users (first_name, last_name)
 VALUES
-    ('Gracia', 'Degli Antoni');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Javier', 'Hiom');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Minnaminnie', 'Este');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Hartley', 'Arrow');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Abbi', 'Gallear');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Lucila', 'Corden');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Henrietta', 'Fritschel');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Greta', 'Gething');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
-    ('Raymond', 'Lowin');
-
-INSERT INTO
-    users (first_name, last_name)
-VALUES
+    ('Gracia', 'Degli Antoni'),
+    ('Javier', 'Hiom'),
+    ('Minnaminnie', 'Este'),
+    ('Hartley', 'Arrow'),
+    ('Abbi', 'Gallear'),
+    ('Lucila', 'Corden'),
+    ('Henrietta', 'Fritschel'),
+    ('Greta', 'Gething'),
+    ('Raymond', 'Lowin'),
     ('Rufus', 'Gronowe');
 
 INSERT INTO
